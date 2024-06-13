@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Archivos de respaldo
+*.log
+npm-debug.log*
+
+# Otros archivos y directorios generados automáticamente
+.DS_Store
+Thumbs.db
